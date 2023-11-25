@@ -3,7 +3,7 @@ function check()
     console.log("Hello World");
 }
 
-function imageClick()
+function dropdownClick()
 {
     console.log("image clicked");
 }
